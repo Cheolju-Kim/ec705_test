@@ -1,3 +1,2 @@
-# ec705_test_1
-cheolju
-cheolju
+## Project EC705
+Authors: cheolju cheolju2
